@@ -13,4 +13,4 @@
 
 [![Gajender's github stats](https://github-readme-stats.vercel.app/api?username=sagartyagi121&theme=blue-green)](https://github.com/sagartyagi121/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=sagartyagi121&theme=blue-green)
+

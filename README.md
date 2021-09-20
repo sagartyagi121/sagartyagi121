@@ -11,6 +11,8 @@
 - 😄 Pronouns: ... Focus on one thing 
 - ⚡ Fun fact: ...No fun fact 
 
+IBM Fresh Face [verified](https://www.credly.com/badges/3f467ea7-f636-4f36-8bd6-4d867f0bc7b4/print)
+
 [![Gajender's github stats](https://github-readme-stats.vercel.app/api?username=sagartyagi121&theme=blue-green)](https://github.com/sagartyagi121/github-readme-stats)
 
 
